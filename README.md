@@ -93,6 +93,25 @@ https://github.com/chetanKadaki/ADVANCEDJAVA/blob/main/lab4/lab4/p2.png
 p3.java.link:
 https://github.com/chetanKadaki/ADVANCEDJAVA/blob/main/lab4/lab4/p3.png
 
+p1.java.link:
+https://github.com/chetanKadaki/ADVANCEDJAVA/blob/main/lab5/lab5/p1.png
+
+p2.java.link:
+https://github.com/chetanKadaki/ADVANCEDJAVA/blob/main/lab5/lab5/p2.png
+
+p3.java.link:
+https://github.com/chetanKadaki/ADVANCEDJAVA/blob/main/lab5/lab5/p3.png
+
+p4.java.link:
+https://github.com/chetanKadaki/ADVANCEDJAVA/blob/main/lab5/lab5/p4.png
+
+
+
+
+
+
+
+
 
 
 
