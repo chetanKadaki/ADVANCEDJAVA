@@ -84,6 +84,19 @@ https://github.com/chetanKadaki/ADVANCEDJAVA/blob/main/lab3/lab3/p9.png
 stringOperation.java.link:
 https://github.com/chetanKadaki/ADVANCEDJAVA/blob/main/lab3/lab3/stringoperator.png
 
+p1.java.link:
+https://github.com/chetanKadaki/ADVANCEDJAVA/blob/main/lab4/lab4/p1.png
+
+p2.java.link:
+https://github.com/chetanKadaki/ADVANCEDJAVA/blob/main/lab4/lab4/p2.png
+
+p3.java.link:
+https://github.com/chetanKadaki/ADVANCEDJAVA/blob/main/lab4/lab4/p3.png
+
+
+
+
+
 
 
 
